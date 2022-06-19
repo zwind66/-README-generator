@@ -4,7 +4,7 @@ const fs = require('fs');
 // function to write README file using file system 
 const writeFile = fileContent => {
     return new Promise((resolve, reject) => {
-        fs.writeFile('./dist/README.md', fileContent, err => {
+        fs.writeFile('./dist/README.md',fileContent, err => {
             // if there is an error 
             if (err) {
                 reject(err);
@@ -22,7 +22,7 @@ const writeFile = fileContent => {
 
 const copyFile = fileContent => {
     return new Promise((resolve, reject) => {
-        fs.copyFile('.index.js', './dist/index.js', err => {
+        fs.copyFile('./index.js', './dist/index.js', err => {
             // if there's an error
             if (err) {
                 reject(err);

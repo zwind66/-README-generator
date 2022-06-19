@@ -1,5 +1,5 @@
 {
-  "name": "readme-generator",
+  "name": "README-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zwind66/README-generator.git"
+    "url": "git+https://github.com/zwind66/portfolio-generator.git"
   },
-  "author": "shuaiZuo",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zwind66/README-generator/issues"
+    "url": "https://github.com/zwind66/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/zwind66/README-generator#readme",
+  "homepage": "https://github.com/zwind66/portfolio-generator#readme",
   "dependencies": {
-    "fix-path": "^3.0.0",
-    "inquirer": "^9.0.0"
+    "inquirer": "^8.2.4"
   }
 }
