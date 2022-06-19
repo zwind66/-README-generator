@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zwind66/README-generator#readme",
   "dependencies": {
+    "fix-path": "^3.0.0",
     "inquirer": "^9.0.0"
   }
 }
