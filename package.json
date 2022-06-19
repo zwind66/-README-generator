@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwind66/README-generator.git"
+  },
+  "author": "shuaiZuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwind66/README-generator/issues"
+  },
+  "homepage": "https://github.com/zwind66/README-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
+}
