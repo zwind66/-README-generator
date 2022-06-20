@@ -5,7 +5,7 @@ const generateVideo = videoText => {
     }
 
     return `
-And here is link to the video:[Screencastify](${videoText})  
+And here is link to the video : [Screencastify](${videoText})  
 `;
 };
 
@@ -22,6 +22,8 @@ return `
 ${data.description}
 
 ![Img for the application](${data.img})
+
+${video}
 
 ## Table of Contents
 
