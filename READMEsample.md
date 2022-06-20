@@ -7,7 +7,7 @@
 
 This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
 
-![Img for the application](https://drive.google.com/file/d/1lNxW2UVvyqKaedDvMWsBRQ3GihhcyOgh/view?usp=sharing)
+![Img for the application](https://github.com/zwind66/README-generator/blob/main/img.png?raw=true)
 
 And here is link to the video : [Screencastify](https://drive.google.com/file/d/1ckke1Q7hm0vv_0N-DiNithnuu4tECOTi/view)
 
