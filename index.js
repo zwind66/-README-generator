@@ -59,6 +59,40 @@ const promptUser = () => {
             }
         },
         {
+            type: "confirm",
+            name: "confirmImg",
+            message: "Would you like to add a description img? (Optional)",
+            default: true,
+        },
+        {
+            type: "input",
+            name: "img",
+            message: "Provide a description Img by URL:",
+            when: ({ confirmImg }) => confirmImg
+        },
+        {
+            type: "confirm",
+            name: "confirmVideo",
+            message: "Would you like to showing video for the application? (Optional)",
+            default: true,
+        },
+        {
+            type: "input",
+            name: "video",
+            message: "Provide a video by URL:",
+            when: ({ confirmVideo }) => confirmVideo
+        },
+        {
+            type: "input",
+            name: "uesrStory",
+            message: "Write a user story: (optional)",
+        },
+        {
+            type: "input",
+            name: "acceptanceCriteria",
+            message: "Write acceptance criteria: (optional)",
+        },
+        {
             type: "input",
             name: "installation",
             message: "What are the steps required to install your project? (Required)",
