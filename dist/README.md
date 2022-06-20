@@ -9,7 +9,9 @@ This application was created to generate a high-quality, professional README dep
 
 ![Img for the application](/img.gif)
 
-And here is link to the video : [Screencastify](https://drive.google.com/file/d/1ckke1Q7hm0vv_0N-DiNithnuu4tECOTi/view)
+
+And here is link to the video : [Screencastify](https://drive.google.com/file/d/1ckke1Q7hm0vv_0N-DiNithnuu4tECOTi/view)  
+
 
 ## Table of Contents
 
@@ -39,7 +41,9 @@ The user should clone the repository from GitHub and download Node. This applica
 
 Run the this command at th root of your project and answer the prompted questions: node index.js
 
-And here is link to the video : [Screencastify](https://drive.google.com/file/d/1ckke1Q7hm0vv_0N-DiNithnuu4tECOTi/view)
+
+And here is link to the video : [Screencastify](https://drive.google.com/file/d/1ckke1Q7hm0vv_0N-DiNithnuu4tECOTi/view)  
+
 
 ## License
 
